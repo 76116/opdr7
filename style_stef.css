@@ -1,0 +1,191 @@
+
+/* EIND NAVVVVVVVVV *//* START NAV */
+.topnav a {
+    color: #f2f2f2;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+
+	
+}
+
+a {
+	
+    color: #f2f2f2;
+}
+
+/*.topnav a:hover {
+    color: #FFA600;
+}
+
+
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+} */
+
+/* EIND NAV */
+
+
+/* reset */
+ul
+{
+list-style: none;
+    color: #f2f2f2;
+}
+
+
+html, body
+{
+box-sizing: border-box;
+    color: #f2f2f2;
+}
+
+
+.topnav ul {
+position: relative;
+   color: #f2f2f2;
+z-index: 600;
+}
+
+.topnav  ul ul {
+position: absolute;
+display: none;
+z-index: 600;
+color: #FFA000;
+}
+
+.topnav ul li:hover > ul {
+display: block;
+    color: #FFA000;
+z-index: 600;
+}
+
+/* begin opmaak */
+
+.topnav
+{
+display: block;
+	
+}
+
+.topnav
+{
+padding: 2px 0px 3px 20px;
+	margin-left: 500px;
+	
+}
+
+.topnav a
+{
+text-decoration: none;
+z-index: 600;
+}
+
+.topnav li
+{
+display: inline-block;
+z-index: 600;
+}
+
+.topnav a
+{ 
+display: block;
+line-height: 50px;
+cursor: pointer;
+padding: 0 30px;
+z-index: 600;
+color: black;
+
+}
+#home
+{
+background-color: #7555e4;
+border-radius: 30px;
+	color:white;
+}
+
+.topnav a:hover
+{
+	color: white;
+	background-color: #7555e4;
+border-radius: 30px;
+}
+/* EIND NAVVVVVVVVV */
+
+
+/* START LOGO */
+
+.logo
+{
+	height: 120px;
+	width: 300px;
+	margin-left: 850px;
+}
+
+
+/* EIND LOGOOOOOOOOOOOOO */
+
+
+
+/* INLOG */
+
+
+.inlog
+{
+	display: block;
+	z-index: auto;
+	margin-left: 1880px;
+	margin-top: -50px;
+
+}
+
+a
+{
+	color: black;
+	text-decoration: none;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+
+.inlog :hover
+{
+	color: #7555e4;
+}
+
+
+/* INLOG */
+
+
+#banner{
+	margin-left: -10px;
+	width: 2048px;
+}
+
+
+/* table */
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+	color: black;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+/* table */
+
+/*TEKST*/
+
+h1
+{
+	text-align: center;
+	color: black;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}

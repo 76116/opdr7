@@ -1,0 +1,66 @@
+/* CSS Document */
+
+table{
+	color: white;
+}
+body{
+	background: white;
+}
+table, .lijn{
+    border: 1px solid black;
+	margin: 15px;
+}
+td{
+	padding: 15px;
+}
+
+th, td, p
+{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+
+.logo
+{
+	height: 120px;
+	width: 300px;
+	margin-left: 850px;
+}
+
+
+
+input, select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: mediumpurple;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: black;
+}
+
+td
+{
+	color: black;
+}
+
+.logo
+{
+height: 120px;
+width: 300px;
+margin-left: 850px;
+}

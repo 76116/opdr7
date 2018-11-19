@@ -1,0 +1,37 @@
+.btnred
+{
+	  background-color: #e74c3c;
+  box-shadow: 0px 5px 0px 0px #CE3323;
+	text-decoration: none;
+	padding: 10px;
+	
+}
+
+.btnred:hover
+{
+	
+  background-color: #FF6656;
+}
+
+.btnpurple
+{
+	background-color: #9b59b6;
+  box-shadow: 0px 5px 0px 0px #82409D;
+	padding: 10px;
+text-decoration: none;
+}
+
+.btnpurple
+{
+	 background-color: #B573D0;
+}
+
+a, p
+{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+
+body
+{
+	background-color: #f2f2f2;
+}
